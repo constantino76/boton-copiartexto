@@ -10,7 +10,8 @@ border-radius: 12px;
 margin-top: 50px ;
 background: linear-gradient(#DC15E6 ,#1ABC9C );
 }
-
+.titulo{  border:2px solid white; 
+background-color: blue;}
 .contenedor div{
 	margin-top: 50px;
     width: 60%px;
