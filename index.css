@@ -1,0 +1,34 @@
+
+.contenedor{
+
+position :absolute;
+width: 500px;
+height: 400px;
+margin-left: 300px;
+display: flex;
+border-radius: 12px;
+margin-top: 50px ;
+background: linear-gradient(#DC15E6 ,#1ABC9C );
+}
+
+.contenedor div{
+	margin-top: 50px;
+    width: 60%px;
+    height: 5%;
+margin-bottom: 3px;
+margin-left: 12px;
+text-align: center;
+border:  2px solid white;
+}
+
+body{
+
+
+
+	background: linear-gradient(#B0CFD3,#26C4DA)
+}
+html{
+padding: 0%;
+
+	min-height: 100%;
+}
